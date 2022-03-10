@@ -1,6 +1,6 @@
-<h2>Column Preview Card Component </h2>
+<h2>Social Proof Section Master </h2>
 <hr>
-This is my solution to <strong>Column Preview Card Component</strong> challenge by Frontendmentor.io. Frontendmentor help us to improve our skills by building realistic projects.
+This is my solution to <strong>Social Proof Section Master</strong> challenge by Frontendmentor.io. Frontendmentor help us to improve our skills by building realistic projects.
 <hr>
 <h3>Live Link</h3>
 <a href="https://sonakshirawat.github.io/social-proof-section-master/">Click here</a>
